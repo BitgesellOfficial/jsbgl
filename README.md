@@ -10,7 +10,7 @@
 Crypto secp256k1 + wasm. Implemented: bip32, bip39, bip44, bip49, bip84, bip141. NIST random generation tests on the fly for entropy. Shamir's secret sharing for mnemonic.
 
 ### Build
-    npm install jsbgl.js
+    npm install jsbgl
     npm run build:wasm:prebuild
     npm run build:wasm
     npm run build
